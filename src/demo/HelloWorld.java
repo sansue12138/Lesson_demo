@@ -13,5 +13,8 @@ public class HelloWorld {
         System.out.println("纷争");
         System.out.println("就这样");
         System.out.println("纷争");
+        System.out.println("毁灭吧");
+
+        
     }
 }
